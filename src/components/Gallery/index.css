@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+  align-items: center;
+  font-family: Roboto;
+}
+
+.image {
+  height: 90vh;
+}
+
+.heading {
+  font-weight: 800;
+  color: #1e293b;
+}
+
+.para {
+  font-weight: 600;
+  color: #64748b;
+}
+
+.list-container {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0px;
+}

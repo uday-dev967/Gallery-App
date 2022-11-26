@@ -1,0 +1,13 @@
+.list-item {
+  padding-right: 10px;
+  opacity: 0.5;
+}
+
+.active-list-item {
+  opacity: 1;
+}
+
+.button {
+  background-color: #ffffff;
+  border-style: none;
+}
